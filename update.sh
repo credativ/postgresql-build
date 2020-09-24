@@ -2,6 +2,7 @@
 
 set -eux
 PGVERSIONS="
+  14
   13
   12
   11
